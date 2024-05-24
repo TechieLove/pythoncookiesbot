@@ -6,7 +6,7 @@ import telebot
 TOKEN = "Netflix Cookies"
 BOT_TOKEN = "7178545425:AAEiglxEGFiXMSVxQGsoe-T5RWKUbhz046w" # Replace with your actual bot token
 PAYMENT_CHANNEL = "@cookwithd" # add payment channel here including the '@' sign
-OWNER_ID = 123456789 # write owner's user id here
+OWNER_ID = 5577450357 # write owner's user id here
 CHANNELS = ["@dailynetflixcookiesfree"] # add channels to be checked here in the format - ["Channel 1", "Channel 2"]
 Points_Per_Refer = 1 # Points per refer
 Required_Referals_For_Withdraw = 3 # Required referals to withdraw
