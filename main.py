@@ -89,7 +89,7 @@ def send_text(message):
         bot.send_message(message.chat.id, f"You have {points} points.")
 
     elif message.text == '📞 Support':
-        bot.send_message(message.chat.id, "For support, contact @your_support_contact")
+        bot.send_message(message.chat.id, "For support, contact @SinwarX - Only Withdrawal Issues")
 
     elif message.text == '🏠 Home':
         menu(message.chat.id)
